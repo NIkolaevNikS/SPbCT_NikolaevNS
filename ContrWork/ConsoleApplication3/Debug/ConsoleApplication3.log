@@ -1,0 +1,5 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\nikit\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(120,29): warning C4101: k: неиспользованная локальная переменная
+C:\Users\nikit\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(120,27): warning C4101: j: неиспользованная локальная переменная
+C:\Users\nikit\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(120,25): warning C4101: c: неиспользованная локальная переменная
+  ConsoleApplication3.vcxproj -> C:\Users\nikit\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
